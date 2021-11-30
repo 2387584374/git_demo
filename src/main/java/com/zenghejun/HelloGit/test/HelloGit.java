@@ -12,5 +12,6 @@ public class HelloGit {
         System.out.println("Hello Git!");
         System.out.println("Hello Git!");
          System.out.println("Hello GitHub!");
+         System.out.println("hello Git");
     }
 }
